@@ -1,6 +1,6 @@
 # 相关参考
 
-小而美的算法技巧[https://labuladong.gitee.io/algo/2/19/23/](https://labuladong.gitee.io/algo/2/19/23/)
+[小而美的算法技巧](https://labuladong.gitee.io/algo/2/19/23/)
 
 # 整体理解
 
